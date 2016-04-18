@@ -31,3 +31,4 @@ $TTL 60
 
 ;BADZONES
 ```
+These files were tested on ubuntu server 14.04 running bind9 9.9.5.
