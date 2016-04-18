@@ -1,5 +1,5 @@
 # bind9
-This is an Response Policy Zone update script for versions of bind9 support RPZ files.
+This is an Response Policy Zone update script for versions of bind9 supporting RPZ files.
 First thing needed is:
 ```bash
 #Place this in named.conf.options file
