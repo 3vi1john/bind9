@@ -25,4 +25,6 @@ rm /etc/bind/hosts.txt
 
 /etc/init.d/bind9 restart
 
+#In order for the email to get sent install postfix or another smtp server along with mail-utils.
+#Change the you@gmail to the email address you want the updated script result getting sent to.
 mail -s "RPZ update script on NS1" you@gmail.com <<< 'RPZ update-script Successfully ran '$day' on NS1'
